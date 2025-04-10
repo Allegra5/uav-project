@@ -1,7 +1,7 @@
-::Satelite Controller Module BETA 5GHz
+::Satelite Controller Module
  
 @echo off
-set /p home=Point to: 
+set /p home=Home: 
 title Communicating ... 
 :scanner 
 if exist waybackrequest goto act 
