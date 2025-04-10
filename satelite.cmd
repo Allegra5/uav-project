@@ -1,4 +1,4 @@
-::Satelite Controller Module 
+::Satelite Controller Module BETA 5GHz
  
 @echo off
 set /p home=Point to: 
