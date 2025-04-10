@@ -1,4 +1,4 @@
-::Satelite Controller Module
+::Satelite Controller Module Public Release
  
 @echo off
 set /p home=Home: 
